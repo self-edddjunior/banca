@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-mit-tech-review.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>MIT Technology Review</title>
+  <id>urn:jornais:fonte:mit-tech-review</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>3 de setembro de 2026</title>
+    <id>urn:jornais:mit-tech-review:2026-09-03</id>
+    <updated>2026-09-03T06:00:00Z</updated>
+    <author><name>MIT Technology Review</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-03</dc:issued>
+    <category term="Ensaios" label="Ensaios"/>
+    <content type="text">MIT Technology Review · 3 de setembro de 2026 · 2909 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/mit-tech-review/mit-tech-review-2026-09-03.epub"/>
+  </entry>
+  <entry>
+    <title>19 de agosto de 2026</title>
+    <id>urn:jornais:mit-tech-review:2026-08-19</id>
+    <updated>2026-08-19T06:00:00Z</updated>
+    <author><name>MIT Technology Review</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-19</dc:issued>
+    <category term="Ensaios" label="Ensaios"/>
+    <content type="text">MIT Technology Review · 19 de agosto de 2026 · 2640 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/mit-tech-review/mit-tech-review-2026-08-19.epub"/>
+  </entry>
+  <entry>
+    <title>17 de agosto de 2026</title>
+    <id>urn:jornais:mit-tech-review:2026-08-17</id>
+    <updated>2026-08-17T06:00:00Z</updated>
+    <author><name>MIT Technology Review</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-17</dc:issued>
+    <category term="Ensaios" label="Ensaios"/>
+    <content type="text">MIT Technology Review · 17 de agosto de 2026 · 2638 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/mit-tech-review/mit-tech-review-2026-08-17.epub"/>
+  </entry>
+</feed>

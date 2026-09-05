@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-brasil.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Brasil</title>
+  <id>urn:jornais:secao:brasil</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>Agência Pública</title>
+    <id>urn:jornais:fonte:agencia-publica</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">20 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-agencia-publica.xml"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil</title>
+    <id>urn:jornais:fonte:intercept-brasil</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">20 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-intercept-brasil.xml"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil</title>
+    <id>urn:jornais:fonte:agencia-brasil</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-agencia-brasil.xml"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil</title>
+    <id>urn:jornais:fonte:bbc-brasil</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-bbc-brasil.xml"/>
+  </entry>
+  <entry>
+    <title>Outras Palavras</title>
+    <id>urn:jornais:fonte:outras-palavras</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">5 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-outras-palavras.xml"/>
+  </entry>
+</feed>

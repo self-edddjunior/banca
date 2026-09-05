@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-quanta.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Quanta Magazine</title>
+  <id>urn:jornais:fonte:quanta</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>5 de setembro de 2026</title>
+    <id>urn:jornais:quanta:2026-09-05</id>
+    <updated>2026-09-05T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-05</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 5 de setembro de 2026 · 1384 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-09-05.epub"/>
+  </entry>
+  <entry>
+    <title>29 de agosto de 2026</title>
+    <id>urn:jornais:quanta:2026-08-29</id>
+    <updated>2026-08-29T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-29</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 29 de agosto de 2026 · 1614 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-08-29.epub"/>
+  </entry>
+  <entry>
+    <title>22 de agosto de 2026</title>
+    <id>urn:jornais:quanta:2026-08-22</id>
+    <updated>2026-08-22T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-22</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 22 de agosto de 2026 · 1535 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-08-22.epub"/>
+  </entry>
+  <entry>
+    <title>19 de agosto de 2026</title>
+    <id>urn:jornais:quanta:2026-08-19</id>
+    <updated>2026-08-19T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-19</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 19 de agosto de 2026 · 1400 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-08-19.epub"/>
+  </entry>
+  <entry>
+    <title>17 de agosto de 2026</title>
+    <id>urn:jornais:quanta:2026-08-17</id>
+    <updated>2026-08-17T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-17</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 17 de agosto de 2026 · 1398 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-08-17.epub"/>
+  </entry>
+</feed>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-agencia-publica.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Agência Pública</title>
+  <id>urn:jornais:fonte:agencia-publica</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>5 de setembro de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-05</id>
+    <updated>2026-09-05T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-05</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 5 de setembro de 2026 · 737 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-05.epub"/>
+  </entry>
+  <entry>
+    <title>4 de setembro de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-04</id>
+    <updated>2026-09-04T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-04</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 4 de setembro de 2026 · 865 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-04.epub"/>
+  </entry>
+  <entry>
+    <title>3 de setembro de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-03</id>
+    <updated>2026-09-03T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-03</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 3 de setembro de 2026 · 493 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-03.epub"/>
+  </entry>
+  <entry>
+    <title>2 de setembro de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-02</id>
+    <updated>2026-09-02T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-02</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 2 de setembro de 2026 · 725 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-02.epub"/>
+  </entry>
+  <entry>
+    <title>1 de setembro de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-01</id>
+    <updated>2026-09-01T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-01</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 1 de setembro de 2026 · 878 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-01.epub"/>
+  </entry>
+  <entry>
+    <title>31 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-31</id>
+    <updated>2026-08-31T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-31</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 31 de agosto de 2026 · 706 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-31.epub"/>
+  </entry>
+  <entry>
+    <title>30 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-30</id>
+    <updated>2026-08-30T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-30</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 30 de agosto de 2026 · 502 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-30.epub"/>
+  </entry>
+  <entry>
+    <title>29 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-29</id>
+    <updated>2026-08-29T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-29</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 29 de agosto de 2026 · 637 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-29.epub"/>
+  </entry>
+  <entry>
+    <title>28 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-28</id>
+    <updated>2026-08-28T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-28</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 28 de agosto de 2026 · 790 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-28.epub"/>
+  </entry>
+  <entry>
+    <title>27 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-27</id>
+    <updated>2026-08-27T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-27</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 27 de agosto de 2026 · 1328 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-27.epub"/>
+  </entry>
+  <entry>
+    <title>26 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-26</id>
+    <updated>2026-08-26T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-26</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 26 de agosto de 2026 · 1796 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-26.epub"/>
+  </entry>
+  <entry>
+    <title>25 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-25</id>
+    <updated>2026-08-25T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-25</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 25 de agosto de 2026 · 1023 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-25.epub"/>
+  </entry>
+  <entry>
+    <title>24 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-24</id>
+    <updated>2026-08-24T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-24</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 24 de agosto de 2026 · 713 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-24.epub"/>
+  </entry>
+  <entry>
+    <title>23 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-23</id>
+    <updated>2026-08-23T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-23</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 23 de agosto de 2026 · 459 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-23.epub"/>
+  </entry>
+  <entry>
+    <title>22 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-22</id>
+    <updated>2026-08-22T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-22</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 22 de agosto de 2026 · 901 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-22.epub"/>
+  </entry>
+  <entry>
+    <title>21 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-21</id>
+    <updated>2026-08-21T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-21</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 21 de agosto de 2026 · 1491 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-21.epub"/>
+  </entry>
+  <entry>
+    <title>20 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-20</id>
+    <updated>2026-08-20T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-20</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 20 de agosto de 2026 · 2610 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-20.epub"/>
+  </entry>
+  <entry>
+    <title>19 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-19</id>
+    <updated>2026-08-19T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 19 de agosto de 2026 · 2542 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-19.epub"/>
+  </entry>
+  <entry>
+    <title>18 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-18</id>
+    <updated>2026-08-18T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-18</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 18 de agosto de 2026 · 1687 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-18.epub"/>
+  </entry>
+  <entry>
+    <title>17 de agosto de 2026</title>
+    <id>urn:jornais:agencia-publica:2026-08-17</id>
+    <updated>2026-08-17T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-08-17</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 17 de agosto de 2026 · 878 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-08-17.epub"/>
+  </entry>
+</feed>

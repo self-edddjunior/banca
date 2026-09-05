@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Banca</title>
+  <id>urn:jornais:catalogo</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>Novidades</title>
+    <id>urn:jornais:novidades</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">76 edições dos últimos 7 dias</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/novidades.xml"/>
+  </entry>
+  <entry>
+    <title>Mundo</title>
+    <id>urn:jornais:secao:mundo</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">5 publicações</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-mundo.xml"/>
+  </entry>
+  <entry>
+    <title>Brasil</title>
+    <id>urn:jornais:secao:brasil</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">5 publicações</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-brasil.xml"/>
+  </entry>
+  <entry>
+    <title>Tecnologia</title>
+    <id>urn:jornais:secao:tecnologia</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">2 publicações</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-tecnologia.xml"/>
+  </entry>
+  <entry>
+    <title>Ensaios</title>
+    <id>urn:jornais:secao:ensaios</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">1 publicação</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-ensaios.xml"/>
+  </entry>
+  <entry>
+    <title>Ciência</title>
+    <id>urn:jornais:secao:ciencia</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">3 publicações</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-ciencia.xml"/>
+  </entry>
+</feed>

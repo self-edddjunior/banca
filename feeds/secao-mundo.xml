@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/feeds/secao-mundo.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Mundo</title>
+  <id>urn:jornais:secao:mundo</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>Reuters</title>
+    <id>urn:jornais:fonte:reuters</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-reuters.xml"/>
+  </entry>
+  <entry>
+    <title>The Guardian</title>
+    <id>urn:jornais:fonte:guardian</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-guardian.xml"/>
+  </entry>
+  <entry>
+    <title>BBC News</title>
+    <id>urn:jornais:fonte:bbc-news</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-bbc-news.xml"/>
+  </entry>
+  <entry>
+    <title>Associated Press</title>
+    <id>urn:jornais:fonte:ap</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">15 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-ap.xml"/>
+  </entry>
+  <entry>
+    <title>Rest of World</title>
+    <id>urn:jornais:fonte:rest-of-world</id>
+    <updated>2026-09-05T19:02:37Z</updated>
+    <content type="text">4 edições · última em 5 de setembro de 2026</content>
+    <link rel="subsection" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-rest-of-world.xml"/>
+  </entry>
+</feed>

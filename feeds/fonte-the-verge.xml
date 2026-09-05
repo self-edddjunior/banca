@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-the-verge.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>The Verge</title>
+  <id>urn:jornais:fonte:the-verge</id>
+  <updated>2026-09-05T19:02:37Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>4 de setembro de 2026</title>
+    <id>urn:jornais:the-verge:2026-09-04</id>
+    <updated>2026-09-04T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-04</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 4 de setembro de 2026 · 665 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-09-04.epub"/>
+  </entry>
+  <entry>
+    <title>28 de agosto de 2026</title>
+    <id>urn:jornais:the-verge:2026-08-28</id>
+    <updated>2026-08-28T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-28</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 28 de agosto de 2026 · 93 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-08-28.epub"/>
+  </entry>
+  <entry>
+    <title>21 de agosto de 2026</title>
+    <id>urn:jornais:the-verge:2026-08-21</id>
+    <updated>2026-08-21T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-21</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 21 de agosto de 2026 · 148 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-08-21.epub"/>
+  </entry>
+  <entry>
+    <title>19 de agosto de 2026</title>
+    <id>urn:jornais:the-verge:2026-08-19</id>
+    <updated>2026-08-19T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-19</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 19 de agosto de 2026 · 94 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-08-19.epub"/>
+  </entry>
+  <entry>
+    <title>17 de agosto de 2026</title>
+    <id>urn:jornais:the-verge:2026-08-17</id>
+    <updated>2026-08-17T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-08-17</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 17 de agosto de 2026 · 200 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-08-17.epub"/>
+  </entry>
+</feed>
