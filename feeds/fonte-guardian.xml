@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-guardian.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>The Guardian</title>
+  <id>urn:jornais:fonte:guardian</id>
+  <updated>2026-09-15T20:17:44Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>15 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 15 de setembro de 2026 · 6455 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>14 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 14 de setembro de 2026 · 7745 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>13 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 13 de setembro de 2026 · 4969 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>12 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 12 de setembro de 2026 · 8561 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>11 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-11</id>
+    <updated>2026-09-11T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-11</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 11 de setembro de 2026 · 7827 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-11.epub"/>
+  </entry>
+  <entry>
+    <title>10 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-10</id>
+    <updated>2026-09-10T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-10</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 10 de setembro de 2026 · 6454 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-10.epub"/>
+  </entry>
+  <entry>
+    <title>9 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-09</id>
+    <updated>2026-09-09T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-09</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 9 de setembro de 2026 · 7788 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-09.epub"/>
+  </entry>
+  <entry>
+    <title>8 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-08</id>
+    <updated>2026-09-08T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-08</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 8 de setembro de 2026 · 7174 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-08.epub"/>
+  </entry>
+  <entry>
+    <title>7 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-07</id>
+    <updated>2026-09-07T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-07</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 7 de setembro de 2026 · 7263 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-07.epub"/>
+  </entry>
+  <entry>
+    <title>6 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-06</id>
+    <updated>2026-09-06T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-06</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 6 de setembro de 2026 · 4968 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-06.epub"/>
+  </entry>
+  <entry>
+    <title>5 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-05</id>
+    <updated>2026-09-05T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-05</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 5 de setembro de 2026 · 7406 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-05.epub"/>
+  </entry>
+  <entry>
+    <title>4 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-04</id>
+    <updated>2026-09-04T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-04</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 4 de setembro de 2026 · 8206 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-04.epub"/>
+  </entry>
+  <entry>
+    <title>3 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-03</id>
+    <updated>2026-09-03T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-03</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 3 de setembro de 2026 · 7325 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-03.epub"/>
+  </entry>
+  <entry>
+    <title>2 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-02</id>
+    <updated>2026-09-02T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-02</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 2 de setembro de 2026 · 7624 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-02.epub"/>
+  </entry>
+  <entry>
+    <title>1 de setembro de 2026</title>
+    <id>urn:jornais:guardian:2026-09-01</id>
+    <updated>2026-09-01T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-01</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 1 de setembro de 2026 · 8149 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-01.epub"/>
+  </entry>
+</feed>

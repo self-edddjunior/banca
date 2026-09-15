@@ -1,0 +1,1198 @@
+{
+  "reuters": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 51,
+        "texto": 3556,
+        "kb": 1710
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 52,
+        "texto": 3811,
+        "kb": 1881
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 50,
+        "texto": 3464,
+        "kb": 1529
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 47,
+        "texto": 3117,
+        "kb": 1328
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 40,
+        "texto": 3578,
+        "kb": 1085
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 53,
+        "texto": 3748,
+        "kb": 1571
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 52,
+        "texto": 3435,
+        "kb": 1719
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 52,
+        "texto": 3929,
+        "kb": 1502
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 47,
+        "texto": 4850,
+        "kb": 1501
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 49,
+        "texto": 3526,
+        "kb": 1777
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 43,
+        "texto": 2986,
+        "kb": 1321
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 42,
+        "texto": 3036,
+        "kb": 1213
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 56,
+        "texto": 3361,
+        "kb": 1828
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 52,
+        "texto": 3203,
+        "kb": 1465
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 52,
+    "texto": 3203,
+    "erro_bruto": "ebook-convert saiu 1: File \"calibre/web/feeds/news.py\", line 1322, in build_index | File \"<string>\", line 72, in parse_index | File \"calibre/web/feeds/news.py\", line 755, in index_to_soup | File \"mechanize/_mechanize.py\", line 241, in open_novisit | File \"mechanize/_mechanize.py\", line 313, in _mech_open | mechanize._response.get_seek_wrapper_class.<locals>.httperror_seek_wrapper: HTTP Error 403: ",
+    "ultima_falha": "2026-09-02"
+  },
+  "guardian": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5339,
+        "kb": 7624
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5564,
+        "kb": 7325
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5645,
+        "kb": 8206
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 90,
+        "texto": 6004,
+        "kb": 7406
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 69,
+        "texto": 6344,
+        "kb": 4968
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 89,
+        "texto": 5322,
+        "kb": 7263
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5530,
+        "kb": 7174
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5443,
+        "kb": 7788
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5623,
+        "kb": 6454
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5741,
+        "kb": 7827
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 90,
+        "texto": 6096,
+        "kb": 8561
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 69,
+        "texto": 5907,
+        "kb": 4969
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 90,
+        "texto": 5450,
+        "kb": 7745
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 90,
+        "texto": 6093,
+        "kb": 6455
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 90,
+    "texto": 6093
+  },
+  "bbc-news": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 50,
+        "texto": 3687,
+        "kb": 6920
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 49,
+        "texto": 4042,
+        "kb": 6331
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 45,
+        "texto": 4311,
+        "kb": 7280
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 50,
+        "texto": 4005,
+        "kb": 6146
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 43,
+        "texto": 4094,
+        "kb": 6595
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 47,
+        "texto": 3818,
+        "kb": 5556
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 42,
+        "texto": 3753,
+        "kb": 5116
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 49,
+        "texto": 3848,
+        "kb": 6481
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 43,
+        "texto": 4941,
+        "kb": 5636
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 50,
+        "texto": 3661,
+        "kb": 5914
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 46,
+        "texto": 4233,
+        "kb": 6930
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 46,
+        "texto": 4231,
+        "kb": 6896
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 49,
+        "texto": 3870,
+        "kb": 6054
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 47,
+        "texto": 3874,
+        "kb": 5208
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 47,
+    "texto": 3874
+  },
+  "ap": {
+    "falhas_consecutivas": 17,
+    "historico": [
+      {
+        "data": "2026-09-11",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-11",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-13",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-13",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-13",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-14",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-14",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-14",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-15",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-15",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      },
+      {
+        "data": "2026-09-15",
+        "ok": false,
+        "erro": "o site recusou o download (403/401)"
+      }
+    ],
+    "ultima_edicao": "2026-09-09",
+    "artigos": 16,
+    "texto": 5213,
+    "ultimo_erro": "o site recusou o download (403/401)",
+    "acao": "jornais diagnosticar ap — costuma ser bloqueio a robô",
+    "erro_bruto": "ebook-convert saiu 1: File \"calibre/web/feeds/news.py\", line 1322, in build_index | File \"<string>\", line 58, in parse_index | File \"calibre/web/feeds/news.py\", line 755, in index_to_soup | File \"mechanize/_mechanize.py\", line 241, in open_novisit | File \"mechanize/_mechanize.py\", line 313, in _mech_open | mechanize._response.get_seek_wrapper_class.<locals>.httperror_seek_wrapper: HTTP Error 403: ",
+    "ultima_falha": "2026-09-15"
+  },
+  "rest-of-world": {
+    "falhas_consecutivas": 3,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 5,
+        "texto": 7047,
+        "kb": 122
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 4,
+        "texto": 6714,
+        "kb": 117
+      },
+      {
+        "data": "2026-08-22",
+        "ok": false,
+        "erro": "EPUB pequeno demais"
+      },
+      {
+        "data": "2026-08-29",
+        "ok": true,
+        "artigos": 5,
+        "texto": 5844,
+        "kb": 139
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 5,
+        "texto": 6458,
+        "kb": 620
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "EPUB pequeno demais"
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "EPUB pequeno demais"
+      },
+      {
+        "data": "2026-09-12",
+        "ok": false,
+        "erro": "EPUB pequeno demais"
+      }
+    ],
+    "ultima_edicao": "2026-09-05",
+    "artigos": 5,
+    "texto": 6458,
+    "erro_bruto": "EPUB pequeno demais: 27 KB < 50 KB",
+    "ultima_falha": "2026-09-12",
+    "ultimo_erro": "EPUB pequeno demais",
+    "acao": "jornais diagnosticar rest-of-world"
+  },
+  "agencia-publica": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7394,
+        "kb": 725
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7825,
+        "kb": 493
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 10,
+        "texto": 6729,
+        "kb": 865
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 10,
+        "texto": 6443,
+        "kb": 737
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7115,
+        "kb": 734
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7115,
+        "kb": 761
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7012,
+        "kb": 477
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 10,
+        "texto": 8195,
+        "kb": 1477
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 10,
+        "texto": 10171,
+        "kb": 1854
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7114,
+        "kb": 1141
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7040,
+        "kb": 1124
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7040,
+        "kb": 1124
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 10,
+        "texto": 7040,
+        "kb": 1234
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 10,
+        "texto": 8486,
+        "kb": 860
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 10,
+    "texto": 8486
+  },
+  "intercept-brasil": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 7,
+        "texto": 13020,
+        "kb": 1178
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 7,
+        "texto": 11101,
+        "kb": 925
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 4,
+        "texto": 8556,
+        "kb": 326
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 6,
+        "texto": 11019,
+        "kb": 552
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 6,
+        "texto": 11019,
+        "kb": 568
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 5,
+        "texto": 11101,
+        "kb": 539
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 6,
+        "texto": 11041,
+        "kb": 620
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 6,
+        "texto": 10959,
+        "kb": 351
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 6,
+        "texto": 10959,
+        "kb": 977
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 8,
+        "texto": 10959,
+        "kb": 1103
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 6,
+        "texto": 9058,
+        "kb": 1011
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 6,
+        "texto": 9058,
+        "kb": 1028
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 6,
+        "texto": 8243,
+        "kb": 1046
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 8,
+        "texto": 8521,
+        "kb": 1264
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 8,
+    "texto": 8521
+  },
+  "agencia-brasil": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2619,
+        "kb": 68
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2514,
+        "kb": 70
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3061,
+        "kb": 69
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2597,
+        "kb": 72
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2883,
+        "kb": 69
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3995,
+        "kb": 77
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3311,
+        "kb": 73
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2793,
+        "kb": 72
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3842,
+        "kb": 80
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2945,
+        "kb": 71
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3194,
+        "kb": 73
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 10,
+        "texto": 3165,
+        "kb": 72
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2666,
+        "kb": 73
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 10,
+        "texto": 4110,
+        "kb": 80
+      }
+    ],
+    "erro_bruto": "EPUB pequeno demais: 48 KB < 50 KB",
+    "ultima_falha": "2026-08-30",
+    "ultima_edicao": "2026-09-15",
+    "artigos": 10,
+    "texto": 4110
+  },
+  "bbc-brasil": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-09-02",
+        "ok": true,
+        "artigos": 32,
+        "texto": 6849,
+        "kb": 2745
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 32,
+        "texto": 6202,
+        "kb": 2774
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 30,
+        "texto": 4463,
+        "kb": 3106
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 31,
+        "texto": 5784,
+        "kb": 2766
+      },
+      {
+        "data": "2026-09-06",
+        "ok": true,
+        "artigos": 31,
+        "texto": 4589,
+        "kb": 3271
+      },
+      {
+        "data": "2026-09-07",
+        "ok": true,
+        "artigos": 30,
+        "texto": 5476,
+        "kb": 4421
+      },
+      {
+        "data": "2026-09-08",
+        "ok": true,
+        "artigos": 30,
+        "texto": 4994,
+        "kb": 3981
+      },
+      {
+        "data": "2026-09-09",
+        "ok": true,
+        "artigos": 30,
+        "texto": 4042,
+        "kb": 2624
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 31,
+        "texto": 3979,
+        "kb": 3014
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 30,
+        "texto": 3904,
+        "kb": 3314
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 28,
+        "texto": 4125,
+        "kb": 2285
+      },
+      {
+        "data": "2026-09-13",
+        "ok": true,
+        "artigos": 30,
+        "texto": 4952,
+        "kb": 3202
+      },
+      {
+        "data": "2026-09-14",
+        "ok": true,
+        "artigos": 31,
+        "texto": 4246,
+        "kb": 3226
+      },
+      {
+        "data": "2026-09-15",
+        "ok": true,
+        "artigos": 33,
+        "texto": 4737,
+        "kb": 4274
+      }
+    ],
+    "ultima_edicao": "2026-09-15",
+    "artigos": 33,
+    "texto": 4737
+  },
+  "outras-palavras": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 10,
+        "texto": 18041,
+        "kb": 1081
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 10,
+        "texto": 16338,
+        "kb": 982
+      },
+      {
+        "data": "2026-08-22",
+        "ok": true,
+        "artigos": 10,
+        "texto": 17797,
+        "kb": 1189
+      },
+      {
+        "data": "2026-08-29",
+        "ok": true,
+        "artigos": 10,
+        "texto": 15631,
+        "kb": 1087
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 10,
+        "texto": 12846,
+        "kb": 1069
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 10,
+        "texto": 9919,
+        "kb": 1181
+      }
+    ],
+    "ultima_edicao": "2026-09-12",
+    "artigos": 10,
+    "texto": 9919
+  },
+  "the-verge": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 10,
+        "texto": 1893,
+        "kb": 200
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2278,
+        "kb": 94
+      },
+      {
+        "data": "2026-08-21",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2176,
+        "kb": 148
+      },
+      {
+        "data": "2026-08-28",
+        "ok": true,
+        "artigos": 9,
+        "texto": 2362,
+        "kb": 93
+      },
+      {
+        "data": "2026-09-04",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2340,
+        "kb": 665
+      },
+      {
+        "data": "2026-09-11",
+        "ok": true,
+        "artigos": 10,
+        "texto": 2127,
+        "kb": 102
+      }
+    ],
+    "ultima_edicao": "2026-09-11",
+    "artigos": 10,
+    "texto": 2127
+  },
+  "lwn": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 7,
+        "texto": 9973,
+        "kb": 99
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 7,
+        "texto": 9973,
+        "kb": 99
+      },
+      {
+        "data": "2026-08-20",
+        "ok": true,
+        "artigos": 6,
+        "texto": 11129,
+        "kb": 180
+      },
+      {
+        "data": "2026-08-27",
+        "ok": true,
+        "artigos": 7,
+        "texto": 16231,
+        "kb": 164
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 6,
+        "texto": 13591,
+        "kb": 243
+      },
+      {
+        "data": "2026-09-10",
+        "ok": true,
+        "artigos": 6,
+        "texto": 15462,
+        "kb": 88
+      }
+    ],
+    "ultima_edicao": "2026-09-10",
+    "artigos": 6,
+    "texto": 15462
+  },
+  "mit-tech-review": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 25,
+        "texto": 7599,
+        "kb": 2638
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 16,
+        "texto": 7599,
+        "kb": 2640
+      },
+      {
+        "data": "2026-09-03",
+        "ok": true,
+        "artigos": 16,
+        "texto": 13443,
+        "kb": 2909
+      }
+    ],
+    "ultima_edicao": "2026-09-03",
+    "artigos": 16,
+    "texto": 13443
+  },
+  "quanta": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 3,
+        "texto": 16634,
+        "kb": 1398
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 3,
+        "texto": 16634,
+        "kb": 1400
+      },
+      {
+        "data": "2026-08-22",
+        "ok": true,
+        "artigos": 4,
+        "texto": 16008,
+        "kb": 1535
+      },
+      {
+        "data": "2026-08-29",
+        "ok": true,
+        "artigos": 3,
+        "texto": 14883,
+        "kb": 1614
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 4,
+        "texto": 16755,
+        "kb": 1384
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 4,
+        "texto": 13384,
+        "kb": 1376
+      }
+    ],
+    "ultima_edicao": "2026-09-12",
+    "artigos": 4,
+    "texto": 13384
+  },
+  "pesquisa-fapesp": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 8,
+        "texto": 10057,
+        "kb": 723
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 8,
+        "texto": 10057,
+        "kb": 723
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 11,
+        "texto": 9433,
+        "kb": 1204
+      }
+    ],
+    "ultima_edicao": "2026-09-05",
+    "artigos": 11,
+    "texto": 9433
+  },
+  "jornal-usp": {
+    "falhas_consecutivas": 0,
+    "historico": [
+      {
+        "data": "2026-08-17",
+        "ok": true,
+        "artigos": 19,
+        "texto": 4010,
+        "kb": 1621
+      },
+      {
+        "data": "2026-08-19",
+        "ok": true,
+        "artigos": 20,
+        "texto": 5272,
+        "kb": 1299
+      },
+      {
+        "data": "2026-08-22",
+        "ok": true,
+        "artigos": 20,
+        "texto": 5226,
+        "kb": 1370
+      },
+      {
+        "data": "2026-08-29",
+        "ok": true,
+        "artigos": 20,
+        "texto": 3930,
+        "kb": 1424
+      },
+      {
+        "data": "2026-09-05",
+        "ok": true,
+        "artigos": 20,
+        "texto": 4195,
+        "kb": 1559
+      },
+      {
+        "data": "2026-09-12",
+        "ok": true,
+        "artigos": 20,
+        "texto": 4320,
+        "kb": 1364
+      }
+    ],
+    "ultima_edicao": "2026-09-12",
+    "artigos": 20,
+    "texto": 4320
+  }
+}
