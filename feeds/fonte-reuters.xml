@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-reuters.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Reuters</title>
+  <id>urn:jornais:fonte:reuters</id>
+  <updated>2026-09-19T12:33:13Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>17 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 17 de setembro de 2026 · 1867 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>16 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 16 de setembro de 2026 · 1480 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>15 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 15 de setembro de 2026 · 1465 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>14 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 14 de setembro de 2026 · 1828 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>13 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 13 de setembro de 2026 · 1213 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>12 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 12 de setembro de 2026 · 1321 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>11 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-11</id>
+    <updated>2026-09-11T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-11</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 11 de setembro de 2026 · 1777 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-11.epub"/>
+  </entry>
+  <entry>
+    <title>10 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-10</id>
+    <updated>2026-09-10T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-10</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 10 de setembro de 2026 · 1501 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-10.epub"/>
+  </entry>
+  <entry>
+    <title>9 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-09</id>
+    <updated>2026-09-09T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-09</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 9 de setembro de 2026 · 1502 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-09.epub"/>
+  </entry>
+  <entry>
+    <title>8 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-08</id>
+    <updated>2026-09-08T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-08</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 8 de setembro de 2026 · 1719 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-08.epub"/>
+  </entry>
+  <entry>
+    <title>7 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-07</id>
+    <updated>2026-09-07T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-07</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 7 de setembro de 2026 · 1571 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-07.epub"/>
+  </entry>
+  <entry>
+    <title>6 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-06</id>
+    <updated>2026-09-06T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-06</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 6 de setembro de 2026 · 1085 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-06.epub"/>
+  </entry>
+  <entry>
+    <title>5 de setembro de 2026</title>
+    <id>urn:jornais:reuters:2026-09-05</id>
+    <updated>2026-09-05T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-05</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 5 de setembro de 2026 · 1328 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-05.epub"/>
+  </entry>
+</feed>

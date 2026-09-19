@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/novidades.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>Novidades</title>
+  <id>urn:jornais:novidades</id>
+  <updated>2026-09-19T12:33:13Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>The Guardian — 19/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 19 de setembro de 2026 · 9560 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Rest of World — 19/09/2026</title>
+    <id>urn:jornais:rest-of-world:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Rest of World</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Rest of World · 19 de setembro de 2026 · 1084 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/rest-of-world/rest-of-world-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Quanta Magazine — 19/09/2026</title>
+    <id>urn:jornais:quanta:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 19 de setembro de 2026 · 3057 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Outras Palavras — 19/09/2026</title>
+    <id>urn:jornais:outras-palavras:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Outras Palavras</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Outras Palavras · 19 de setembro de 2026 · 1126 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/outras-palavras/outras-palavras-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Jornal da USP — 19/09/2026</title>
+    <id>urn:jornais:jornal-usp:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Jornal da USP</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Jornal da USP · 19 de setembro de 2026 · 1110 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/jornal-usp/jornal-usp-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 19/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 19 de setembro de 2026 · 659 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 19/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 19 de setembro de 2026 · 3433 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 19/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 19 de setembro de 2026 · 7756 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 19/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 19 de setembro de 2026 · 910 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 19/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 19 de setembro de 2026 · 76 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-19.epub"/>
+  </entry>
+  <entry>
+    <title>The Verge — 18/09/2026</title>
+    <id>urn:jornais:the-verge:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>The Verge</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">The Verge · 18 de setembro de 2026 · 231 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/the-verge/the-verge-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 18/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 18 de setembro de 2026 · 7551 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 18/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 18 de setembro de 2026 · 576 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 18/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 18 de setembro de 2026 · 2516 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 18/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 18 de setembro de 2026 · 5937 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 18/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 18 de setembro de 2026 · 1437 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 18/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-18</id>
+    <updated>2026-09-18T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-18</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 18 de setembro de 2026 · 80 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-18.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 17/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 17 de setembro de 2026 · 7218 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 17/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 17 de setembro de 2026 · 1867 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>LWN — Linux Weekly News — 17/09/2026</title>
+    <id>urn:jornais:lwn:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>LWN — Linux Weekly News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Tecnologia" label="Tecnologia"/>
+    <content type="text">LWN — Linux Weekly News · 17 de setembro de 2026 · 297 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/lwn/lwn-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 17/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 17 de setembro de 2026 · 679 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 17/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 17 de setembro de 2026 · 2522 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 17/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 17 de setembro de 2026 · 5423 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 17/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 17 de setembro de 2026 · 1700 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 17/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-17</id>
+    <updated>2026-09-17T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-17</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 17 de setembro de 2026 · 69 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-17.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 16/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 16 de setembro de 2026 · 7030 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 16/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 16 de setembro de 2026 · 1480 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 16/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 16 de setembro de 2026 · 1222 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 16/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 16 de setembro de 2026 · 3278 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 16/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 16 de setembro de 2026 · 4921 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 16/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 16 de setembro de 2026 · 1198 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 16/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-16</id>
+    <updated>2026-09-16T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-16</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 16 de setembro de 2026 · 69 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-16.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 15/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 15 de setembro de 2026 · 6455 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 15/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 15 de setembro de 2026 · 1465 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 15/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 15 de setembro de 2026 · 1264 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 15/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 15 de setembro de 2026 · 4274 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 15/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 15 de setembro de 2026 · 5208 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 15/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 15 de setembro de 2026 · 860 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 15/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-15</id>
+    <updated>2026-09-15T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-15</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 15 de setembro de 2026 · 80 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-15.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 14/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 14 de setembro de 2026 · 7745 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 14/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 14 de setembro de 2026 · 1828 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 14/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 14 de setembro de 2026 · 1046 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 14/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 14 de setembro de 2026 · 3226 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 14/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 14 de setembro de 2026 · 6054 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 14/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 14 de setembro de 2026 · 1234 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 14/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-14</id>
+    <updated>2026-09-14T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-14</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 14 de setembro de 2026 · 73 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-14.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 13/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 13 de setembro de 2026 · 4969 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 13/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 13 de setembro de 2026 · 1213 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 13/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 13 de setembro de 2026 · 1028 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 13/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 13 de setembro de 2026 · 3202 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 13/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 13 de setembro de 2026 · 6896 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 13/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 13 de setembro de 2026 · 1124 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 13/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-13</id>
+    <updated>2026-09-13T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-13</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 13 de setembro de 2026 · 72 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-13.epub"/>
+  </entry>
+  <entry>
+    <title>The Guardian — 12/09/2026</title>
+    <id>urn:jornais:guardian:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>The Guardian</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">The Guardian · 12 de setembro de 2026 · 8561 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/guardian/guardian-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Reuters — 12/09/2026</title>
+    <id>urn:jornais:reuters:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Reuters</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">Reuters · 12 de setembro de 2026 · 1321 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/reuters/reuters-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Quanta Magazine — 12/09/2026</title>
+    <id>urn:jornais:quanta:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Quanta Magazine</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Quanta Magazine · 12 de setembro de 2026 · 1376 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/quanta/quanta-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Outras Palavras — 12/09/2026</title>
+    <id>urn:jornais:outras-palavras:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Outras Palavras</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Outras Palavras · 12 de setembro de 2026 · 1181 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/outras-palavras/outras-palavras-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Jornal da USP — 12/09/2026</title>
+    <id>urn:jornais:jornal-usp:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Jornal da USP</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Ciência" label="Ciência"/>
+    <content type="text">Jornal da USP · 12 de setembro de 2026 · 1364 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/jornal-usp/jornal-usp-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Intercept Brasil — 12/09/2026</title>
+    <id>urn:jornais:intercept-brasil:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Intercept Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Intercept Brasil · 12 de setembro de 2026 · 1011 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/intercept-brasil/intercept-brasil-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News Brasil — 12/09/2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 12 de setembro de 2026 · 2285 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>BBC News — 12/09/2026</title>
+    <id>urn:jornais:bbc-news:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 12 de setembro de 2026 · 6930 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Pública — 12/09/2026</title>
+    <id>urn:jornais:agencia-publica:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Agência Pública</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Pública · 12 de setembro de 2026 · 1124 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-publica/agencia-publica-2026-09-12.epub"/>
+  </entry>
+  <entry>
+    <title>Agência Brasil — 12/09/2026</title>
+    <id>urn:jornais:agencia-brasil:2026-09-12</id>
+    <updated>2026-09-12T06:00:00Z</updated>
+    <author><name>Agência Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-12</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">Agência Brasil · 12 de setembro de 2026 · 73 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/agencia-brasil/agencia-brasil-2026-09-12.epub"/>
+  </entry>
+</feed>
