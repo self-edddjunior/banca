@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-bbc-brasil.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>BBC News Brasil</title>
+  <id>urn:jornais:fonte:bbc-brasil</id>
+  <updated>2026-10-03T17:59:06Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>3 de outubro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-10-03</id>
+    <updated>2026-10-03T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-10-03</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 3 de outubro de 2026 · 4568 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-10-03.epub"/>
+  </entry>
+  <entry>
+    <title>2 de outubro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-10-02</id>
+    <updated>2026-10-02T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-10-02</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 2 de outubro de 2026 · 2869 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-10-02.epub"/>
+  </entry>
+  <entry>
+    <title>1 de outubro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-10-01</id>
+    <updated>2026-10-01T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-10-01</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 1 de outubro de 2026 · 3629 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-10-01.epub"/>
+  </entry>
+  <entry>
+    <title>30 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-30</id>
+    <updated>2026-09-30T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-30</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 30 de setembro de 2026 · 3108 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-30.epub"/>
+  </entry>
+  <entry>
+    <title>29 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-29</id>
+    <updated>2026-09-29T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-29</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 29 de setembro de 2026 · 3716 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-29.epub"/>
+  </entry>
+  <entry>
+    <title>28 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-28</id>
+    <updated>2026-09-28T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-28</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 28 de setembro de 2026 · 4559 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-28.epub"/>
+  </entry>
+  <entry>
+    <title>27 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-27</id>
+    <updated>2026-09-27T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-27</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 27 de setembro de 2026 · 3365 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-27.epub"/>
+  </entry>
+  <entry>
+    <title>26 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-26</id>
+    <updated>2026-09-26T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-26</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 26 de setembro de 2026 · 2727 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-26.epub"/>
+  </entry>
+  <entry>
+    <title>25 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-25</id>
+    <updated>2026-09-25T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-25</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 25 de setembro de 2026 · 3711 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-25.epub"/>
+  </entry>
+  <entry>
+    <title>24 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-24</id>
+    <updated>2026-09-24T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-24</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 24 de setembro de 2026 · 3436 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-24.epub"/>
+  </entry>
+  <entry>
+    <title>23 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-23</id>
+    <updated>2026-09-23T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-23</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 23 de setembro de 2026 · 2441 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-23.epub"/>
+  </entry>
+  <entry>
+    <title>22 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-22</id>
+    <updated>2026-09-22T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-22</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 22 de setembro de 2026 · 3530 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-22.epub"/>
+  </entry>
+  <entry>
+    <title>21 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-21</id>
+    <updated>2026-09-21T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-21</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 21 de setembro de 2026 · 4885 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-21.epub"/>
+  </entry>
+  <entry>
+    <title>20 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-20</id>
+    <updated>2026-09-20T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-20</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 20 de setembro de 2026 · 4279 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-20.epub"/>
+  </entry>
+  <entry>
+    <title>19 de setembro de 2026</title>
+    <id>urn:jornais:bbc-brasil:2026-09-19</id>
+    <updated>2026-09-19T06:00:00Z</updated>
+    <author><name>BBC News Brasil</name></author>
+    <dc:language>pt</dc:language>
+    <dc:issued>2026-09-19</dc:issued>
+    <category term="Brasil" label="Brasil"/>
+    <content type="text">BBC News Brasil · 19 de setembro de 2026 · 3433 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-brasil/bbc-brasil-2026-09-19.epub"/>
+  </entry>
+</feed>
