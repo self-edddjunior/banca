@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://self-edddjunior.github.io/banca/feeds/fonte-bbc-news.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=navigation" href="https://self-edddjunior.github.io/banca/catalogo.xml"/>
+  <title>BBC News</title>
+  <id>urn:jornais:fonte:bbc-news</id>
+  <updated>2026-10-23T20:27:19Z</updated>
+  <author><name>jornais</name></author>
+  <entry>
+    <title>23 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-23</id>
+    <updated>2026-10-23T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-23</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 23 de outubro de 2026 · 5089 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-23.epub"/>
+  </entry>
+  <entry>
+    <title>22 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-22</id>
+    <updated>2026-10-22T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-22</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 22 de outubro de 2026 · 5778 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-22.epub"/>
+  </entry>
+  <entry>
+    <title>21 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-21</id>
+    <updated>2026-10-21T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-21</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 21 de outubro de 2026 · 6979 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-21.epub"/>
+  </entry>
+  <entry>
+    <title>20 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-20</id>
+    <updated>2026-10-20T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-20</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 20 de outubro de 2026 · 5633 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-20.epub"/>
+  </entry>
+  <entry>
+    <title>19 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-19</id>
+    <updated>2026-10-19T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-19</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 19 de outubro de 2026 · 6673 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-19.epub"/>
+  </entry>
+  <entry>
+    <title>18 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-18</id>
+    <updated>2026-10-18T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-18</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 18 de outubro de 2026 · 7506 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-18.epub"/>
+  </entry>
+  <entry>
+    <title>17 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-17</id>
+    <updated>2026-10-17T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-17</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 17 de outubro de 2026 · 6465 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-17.epub"/>
+  </entry>
+  <entry>
+    <title>16 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-16</id>
+    <updated>2026-10-16T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-16</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 16 de outubro de 2026 · 5817 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-16.epub"/>
+  </entry>
+  <entry>
+    <title>15 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-15</id>
+    <updated>2026-10-15T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-15</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 15 de outubro de 2026 · 5711 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-15.epub"/>
+  </entry>
+  <entry>
+    <title>14 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-14</id>
+    <updated>2026-10-14T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-14</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 14 de outubro de 2026 · 5696 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-14.epub"/>
+  </entry>
+  <entry>
+    <title>13 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-13</id>
+    <updated>2026-10-13T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-13</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 13 de outubro de 2026 · 6230 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-13.epub"/>
+  </entry>
+  <entry>
+    <title>12 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-12</id>
+    <updated>2026-10-12T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-12</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 12 de outubro de 2026 · 4922 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-12.epub"/>
+  </entry>
+  <entry>
+    <title>11 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-11</id>
+    <updated>2026-10-11T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-11</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 11 de outubro de 2026 · 6427 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-11.epub"/>
+  </entry>
+  <entry>
+    <title>10 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-10</id>
+    <updated>2026-10-10T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-10</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 10 de outubro de 2026 · 5788 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-10.epub"/>
+  </entry>
+  <entry>
+    <title>9 de outubro de 2026</title>
+    <id>urn:jornais:bbc-news:2026-10-09</id>
+    <updated>2026-10-09T06:00:00Z</updated>
+    <author><name>BBC News</name></author>
+    <dc:language>en</dc:language>
+    <dc:issued>2026-10-09</dc:issued>
+    <category term="Mundo" label="Mundo"/>
+    <content type="text">BBC News · 9 de outubro de 2026 · 6359 KB</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip" href="https://self-edddjunior.github.io/banca/livros/bbc-news/bbc-news-2026-10-09.epub"/>
+  </entry>
+</feed>
